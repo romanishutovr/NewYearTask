@@ -1,0 +1,29 @@
+ body {
+  background-image: url(rik-i-morti.jpg);
+  background-size: 100%;
+  position: relative;
+}
+.b1{
+  position: absolute;
+  transform: translate(551px, 181px);
+}
+
+.b2{
+  position: absolute;
+  transform: translate(790px, 181px);
+}
+
+.b3{
+  position: absolute;
+  transform: translate(551px, 372px);
+}
+
+.b4{
+  position: absolute;
+  transform: translate(794px, 375px);
+}
+
+
+input{
+  transform:scale(13);
+}
