@@ -1,4 +1,4 @@
-const socket = new WebSocket('ws://vps.yojji.io', 'roman_ishutov');
+const socket = new WebSocket('wws://vps.yojji.io', 'roman_ishutov');
 const switchers = document.querySelectorAll('.container__switcher input');
 const levers = [false, false, false, false];
 let checkedLever = 1;
